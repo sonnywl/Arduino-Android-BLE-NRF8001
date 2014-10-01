@@ -24,3 +24,12 @@ proguard/
 
 # Log Files
 *.log
+
+.classpath
+.project
+*.prefs
+
+*.so
+*.o
+*.hex
+*.d

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE Arduino Sensor</string>
+    <string name="no_devices">No Nearby Devices</string>
+    <string name="main_description">An Arduino microprocessor based sensor implementation</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="message">Message</string>
+    <string name="main">About</string>
+    <string name="sensors">Sensors</string>
+    <string name="scan">Scan</string>
+    <string name="interval_ms">Interval (ms)</string>
+    <string name="transmission_size">Message (bytes)</string>
+    <string name="restart">Restart</string>
+    <string name="stop">Stop</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_address">Device Address</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
